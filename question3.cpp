@@ -13,7 +13,7 @@ int main() {
 			cout << "January" << endl;
 			break;
 		case 2:
-			cout << "Febuary" << endl;
+			cout << "February" << endl;
 			break;
 		case 3:
 			cout << "March" << endl;
